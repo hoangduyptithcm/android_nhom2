@@ -1,5 +1,4 @@
-Android
-======================
+
 Bài tập Môn Android.
 =======================
 Tên Các Thành Viên
